@@ -1,1 +1,1 @@
-alert("dobro jutro");
+alert("hello darkness");
