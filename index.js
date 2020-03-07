@@ -1,1 +1,1 @@
-alert("dobar dan");
+alert("dobro jutro");
